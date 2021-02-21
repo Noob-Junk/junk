@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/77061416/108617255-b30acd00-744f-11eb-9772-2e15c5e89b18.png" alt="Bt">  
+<p align="center"><img src="https://user-images.githubusercontent.com/77061416/108617305-257bad00-7450-11eb-8863-32449e7ff078.png" alt="Bt">  
 <p align="center">
 
 ### Installation
