@@ -9,8 +9,6 @@ $ ls
 $ cd junk
 $ ls
 $ python2 junk.py
-```
-```
 username:junk
 password:junk
 ```
