@@ -1,5 +1,6 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/77061416/108648072-41855a00-74f5-11eb-82a9-f0f66995a5ca.png" alt="Bt">  
 <p align="center">
+<a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+</p>
 
 ### Installation
 
